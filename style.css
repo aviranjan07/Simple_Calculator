@@ -3,8 +3,8 @@ body{
 	background-color: black;
 }
 #container{
-	width: 1000px;
-	height: 550px;
+	width: 1000;
+	height: 550;
 	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(photo.jpg);
 	margin: 20px auto;	
 }
@@ -12,7 +12,6 @@ body{
 	width: 320px;
 	height: 520px;
 	background-color: #eaedef;
-    background-repeat: no-repeat;
 	margin: 0 auto;
 	top: 20px;
 	position: relative;
